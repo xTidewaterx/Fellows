@@ -256,7 +256,7 @@ the z-inex is on both slide1 and slide 2, on slide one we have :before, but slid
       text-shadow:  2px 2px 4px  rgb(228, 46, 46);
     }
 
-    h1 {
+    h2 {
 
      
      z-index: 10000;
